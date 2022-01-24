@@ -2,56 +2,63 @@
     {
       "userId": 1,
       "budgetYear": 2013,
-      "firstName": "Krish3",
-      "lastName": "Lee3",
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "programName": "ABC - Test Item 1 (P)",
       "phoneNumber": "123456",
       "emailAddress": "krish.lee@learningcontainer.com"
     },
     {
       "userId": 2,
       "budgetYear": 2013,
-      "firstName": "racks3",
-      "lastName": "jacson3",
+      "firstName": "racks",
+      "lastName": "jacson",
+      "programName": "ABC - Test Item 2 (P)",
       "phoneNumber": "123456",
       "emailAddress": "racks.jacson@learningcontainer.com"
     },
     {
       "userId": 3,
       "budgetYear": 2019,
-      "firstName": "denial9",
-      "lastName": "roast9",
+      "firstName": "denial",
+      "lastName": "roast",
+      "programName": "ABC - Test Item 3 (P)",
       "phoneNumber": "33333333",
       "emailAddress": "denial.roast@learningcontainer.com"
     },
     {
       "userId": 4,
       "budgetYear": 2019,
-      "firstName": "devid9",
-      "lastName": "neo9",
+      "firstName": "devid",
+      "lastName": "neo",
+      "programName": "ABC - Test Item 4 (P)",
       "phoneNumber": "222222222",
       "emailAddress": "devid.neo@learningcontainer.com"
     },
     {
       "userId": 5,
       "budgetYear": 2020,
-      "firstName": "jone0",
-      "lastName": "mac0",
+      "firstName": "jone",
+      "lastName": "mac",
+      "programName": "ABC - Test Item 5 (P)",
       "phoneNumber": "111111111",
       "emailAddress": "jone.mac@learningcontainer.com"
-    },
+    }
     {
       "userId": 1,
       "budgetYear": 2015,
-      "firstName": "Krish5",
-      "lastName": "Lee5",
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "programName": "ABC - Test Item 6 (P)",
       "phoneNumber": "123456",
       "emailAddress": "krish.lee@learningcontainer.com"
     },
     {
       "userId": 2,
       "budgetYear": 2011,
-      "firstName": "racks1",
-      "lastName": "jacson1",
+      "firstName": "racks",
+      "lastName": "jacson",
+      "programName": "ABC - Test Item 7 (P)",
       "phoneNumber": "123456",
       "emailAddress": "racks.jacson@learningcontainer.com"
     },
@@ -60,7 +67,8 @@
       "budgetYear": 2021,
       "firstName": "denial",
       "lastName": "roast",
+      "programName": "ABC - Test Item 8 (P)",
       "phoneNumber": "33333333",
       "emailAddress": "denial.roast@learningcontainer.com"
-    }
+    },
   ]
